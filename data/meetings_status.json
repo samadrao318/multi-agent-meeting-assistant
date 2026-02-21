@@ -1,0 +1,375 @@
+[
+  {
+    "id": "mtg_87e11d226c",
+    "title": "hospital",
+    "date": "2026-02-19",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "Pakpattan",
+    "attendees": [
+      "luckyrao304@gmail.com",
+      "samadrao318@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: hospital",
+    "email_body": "Dear Attendee,\n\nYou are cordially invited to the following meeting:\n\n📅 Title: hospital\n📆 Date: 2026-02-19\n🕐 Time: 10:00:00 – 11:00:00\n📍 Location: Pakpattan\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nMeeting Organizer",
+    "status": "Pending",
+    "source": "scheduler",
+    "created_at": "2026-02-18T17:03:49.679048",
+    "updated_at": "2026-02-18T17:03:49.679056",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_b3919e3acb",
+    "title": "hospital",
+    "date": "2026-02-19",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "Pakpattan",
+    "attendees": [
+      "luckyrao304@gmail.com",
+      "samadrao318@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: hospital",
+    "email_body": "Dear Attendee,\n\nYou are cordially invited to the following meeting:\n\n📅 Title: hospital\n📆 Date: 2026-02-19\n🕐 Time: 10:00:00 – 11:00:00\n📍 Location: Pakpattan\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-18T17:03:58.780403",
+    "updated_at": "2026-02-20T17:02:45.985675",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_aaf226fa9d",
+    "title": "cv seal base",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: cv seal base",
+    "email_body": "Dear Attendee,\n\nYou are cordially invited to the following meeting:\n\n📅 Title: cv seal base \n📆 Date: 2026-02-21\n🕐 Time: 10:00:00 – 11:00:00\n📍 Location: multan\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nMeeting Organizer",
+    "status": "Pending",
+    "source": "scheduler",
+    "created_at": "2026-02-20T14:36:50.686688",
+    "updated_at": "2026-02-20T14:36:50.686700",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_91d0a54b44",
+    "title": "cv seal base",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: cv seal base",
+    "email_body": "Dear Attendee,\n\nYou are cordially invited to the following meeting:\n\n📅 Title: cv seal base \n📆 Date: 2026-02-21\n🕐 Time: 10:00:00 – 11:00:00\n📍 Location: multan\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-20T14:36:56.840367",
+    "updated_at": "2026-02-20T14:37:59.191584",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_1e8ebfba15",
+    "title": "cv seal base",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: cv seal base",
+    "email_body": "Dear Attendee,\n\nYou are cordially invited to the following meeting:\n\n📅 Title: cv seal base \n📆 Date: 2026-02-21\n🕐 Time: 10:00:00 – 11:00:00\n📍 Location: multan\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-20T14:41:05.358582",
+    "updated_at": "2026-02-20T16:57:21.945858",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_44c725b94b",
+    "title": "cv seal base",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan",
+    "attendees": [
+      "luckyrao304@gmail.com",
+      "samadrao318@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: cv seal base",
+    "email_body": "Dear Attendee,\n\nYou are cordially invited to the following meeting:\n\n📅 Title: cv seal base \n📆 Date: 2026-02-21\n🕐 Time: 10:00:00 – 11:00:00\n📍 Location: multan\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-20T14:41:33.787475",
+    "updated_at": "2026-02-20T14:42:33.801827",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_c80d249241",
+    "title": "Rao Samad",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "Pakpattan",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: Rao Samad",
+    "email_body": "Dear Attendee,\n\nYou are cordially invited to the following meeting:\n\n📅 Title: Rao Samad\n📆 Date: 2026-02-21\n🕐 Time: 10:00:00 – 11:00:00\n📍 Location: Pakpattan\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-20T16:58:00.834476",
+    "updated_at": "2026-02-20T19:48:17.794326",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_16d7ffbcb4",
+    "title": "Rao Samad",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "Pakpattan",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: Rao Samad",
+    "email_body": "Dear Attendee,\n\nYou are cordially invited to the following meeting:\n\n📅 Title: Rao Samad\n📆 Date: 2026-02-21\n🕐 Time: 10:00:00 – 11:00:00\n📍 Location: Pakpattan\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-20T16:58:35.796045",
+    "updated_at": "2026-02-20T16:58:50.225765",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_1d378fee23",
+    "title": "XAUUSD",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: XAUUSD",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 XAUUSD\n📆 2026-02-21\n🕐 10:00:00 – 11:00:00\n📍 multan\n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-20T17:15:17.970292",
+    "updated_at": "2026-02-20T17:15:35.194058",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_772fc9b9d9",
+    "title": "XAUUSD2323",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: XAUUSD2323",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 XAUUSD2323\n📆 2026-02-21\n🕐 10:00:00 – 11:00:00\n📍 multan\n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-20T19:30:46.347758",
+    "updated_at": "2026-02-20T19:31:04.088723",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_72eccfcc0d",
+    "title": "XAUUSD232",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan sk",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: XAUUSD232",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 XAUUSD232\n📆 2026-02-21\n🕐 10:00:00 – 11:00:00\n📍 multan sk \n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Pending",
+    "source": "scheduler",
+    "created_at": "2026-02-20T19:48:48.564520",
+    "updated_at": "2026-02-20T19:48:48.564535",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_689492de05",
+    "title": "XAUUSD232",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan sk",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: XAUUSD232",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 XAUUSD232\n📆 2026-02-21\n🕐 10:00:00 – 11:00:00\n📍 multan sk \n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Pending",
+    "source": "scheduler",
+    "created_at": "2026-02-20T19:48:54.355308",
+    "updated_at": "2026-02-20T19:48:54.355319",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_1928b86684",
+    "title": "XAUUSD2323",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: XAUUSD2323",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 XAUUSD2323\n📆 2026-02-21\n🕐 10:00:00 – 11:00:00\n📍 To be confirmed\n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Pending",
+    "source": "scheduler",
+    "created_at": "2026-02-20T19:54:34.204585",
+    "updated_at": "2026-02-20T19:54:34.204599",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_5d39b6f712",
+    "title": "XAUUSD2323",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: XAUUSD2323",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 XAUUSD2323\n📆 2026-02-21\n🕐 10:00:00 – 11:00:00\n📍 multan\n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-20T19:54:39.866026",
+    "updated_at": "2026-02-20T19:55:01.734266",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "mtg_fd8fb9705f",
+    "title": "Math",
+    "date": "2026-02-21",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "iowje",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: Math",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 Math \n📆 2026-02-21\n🕐 10:00:00 – 11:00:00\n📍 iowje\n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-20T22:23:24.959532",
+    "updated_at": "2026-02-20T22:25:09.053922",
+    "email_sent": false,
+    "notes": ""
+  },
+  {
+    "id": "7cf6abed498546879d8ae7411b7f99cb",
+    "title": "XAUUSD",
+    "date": "2026-02-22",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "multan",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: XAUUSD",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 XAUUSD\n📆 2026-02-22\n🕐 10:00:00 – 11:00:00\n📍 multan\n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-21T09:41:41.859831",
+    "updated_at": "2026-02-21T09:42:26.685212"
+  },
+  {
+    "id": "cb63e4fc5a524ad9a6d3266add2dd532",
+    "title": "Discussion about trading AI agent ",
+    "date": "2026-02-22",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "48 / sp ",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: Discussion about trading AI agent ",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 Discussion about trading AI agent \n📆 2026-02-22\n🕐 10:00:00 – 11:00:00\n📍 48 / sp \n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-21T10:27:23.121024",
+    "updated_at": "2026-02-21T11:07:50.806585"
+  },
+  {
+    "id": "2666800ad4a04c28aa113db4d1e64b4d",
+    "title": "Discussion about trading AI agent ",
+    "date": "2026-02-22",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "iowje",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: Discussion about trading AI agent ",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 Discussion about trading AI agent \n📆 2026-02-22\n🕐 10:00:00 – 11:00:00\n📍 iowje\n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-21T12:12:50.473228",
+    "updated_at": "2026-02-21T12:14:44.064031"
+  },
+  {
+    "id": "a01096cf1baa479b8b8a5a6e7647c06c",
+    "title": "Rao Samad",
+    "date": "2026-02-22",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "48 / sp ",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: Rao Samad",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 Rao Samad\n📆 2026-02-22\n🕐 10:00:00 – 11:00:00\n📍 48 / sp \n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-21T12:21:03.856237",
+    "updated_at": "2026-02-21T12:21:47.599886"
+  },
+  {
+    "id": "91dd95014a4a4947a4ed506a2ed9d953",
+    "title": "saad company",
+    "date": "2026-02-22",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "48 / sp ",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: saad company",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 saad company\n📆 2026-02-22\n🕐 10:00:00 – 11:00:00\n📍 48 / sp \n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-21T12:28:34.433576",
+    "updated_at": "2026-02-21T12:28:48.036336"
+  }
+]

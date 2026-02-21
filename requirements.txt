@@ -1,0 +1,23 @@
+# Core LangChain and LangGraph
+langchain==0.3.15
+langchain-core==0.3.28
+langchain-openai==0.2.14
+langgraph==0.2.62
+langgraph-checkpoint==2.0.8
+
+# Azure OpenAI
+openai==1.57.2
+
+# Google APIs
+google-auth==2.36.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+google-api-python-client==2.154.0
+
+# Data handling
+pandas==2.2.3
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# Utilities
+python-dotenv==1.0.1
