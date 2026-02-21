@@ -1,0 +1,12 @@
+[
+  {
+    "id": "email_e2e00c5917",
+    "to": "luckyrao304@gmail.com",
+    "subject": "Meeting Invitation: hospital",
+    "body_preview": "Dear Attendee,\n\nYou are cordially invited to the following meeting:\n\n📅 Title: hospital\n📆 Date: 2026-02-19\n🕐 Time: 10:00:00 – 11:00:00\n📍 Location: Pakpattan\n\nPlease confirm your attendance at your earliest convenience.\n\nBest regards,\nMeeting Organizer",
+    "status": "Sent",
+    "meeting_id": "mtg_87e11d226c",
+    "source": "scheduler",
+    "sent_at": "2026-02-18T17:03:49.700384"
+  }
+]  

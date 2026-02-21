@@ -1,0 +1,19 @@
+ [
+ {
+    "id": "91dd95014a4a4947a4ed506a2ed9d953",
+    "title": "saad company",
+    "date": "2026-02-22",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "location": "48 / sp ",
+    "attendees": [
+      "luckyrao304@gmail.com"
+    ],
+    "email_subject": "Meeting Invitation: saad company",
+    "email_body": "Dear Attendee,\n\nYou are invited to:\n\n📅 saad company\n📆 2026-02-22\n🕐 10:00:00 – 11:00:00\n📍 48 / sp \n\nPlease confirm your attendance.\n\nBest regards,\nMeeting Organizer",
+    "status": "Approved",
+    "source": "scheduler",
+    "created_at": "2026-02-21T12:28:34.433576",
+    "updated_at": "2026-02-21T12:28:48.036336"
+  }
+]
